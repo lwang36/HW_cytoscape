@@ -1,0 +1,178 @@
+Pathway or Process	XD-score	q-value	Overlap/Size
+Basal transcription factors	 1.16293	 0.00000	   9/32
+Spliceosome	 0.44801	 0.00000	 14/117
+Lysine degradation	 0.34438	 0.15733	   3/32
+Systemic lupus erythematosus	 0.26789	 0.03836	   5/67
+Oocyte meiosis	 0.26725	 0.00598	   7/94
+Notch signaling pathway	 0.25509	 0.26065	   3/42
+Wnt signaling pathway	 0.18813	 0.03054	  7/128
+Long-term depression	 0.17990	 0.52822	   3/57
+Chagas disease	 0.17140	 0.15733	   5/99
+Tight junction	 0.14637	 0.23179	  5/113
+TGF-beta signaling pathway	 0.12128	 1.00000	   3/79
+Base excision repair	 0.09438	 1.00000	   1/32
+DNA replication	 0.09059	 1.00000	   1/33
+Chronic myeloid leukemia	 0.08532	 1.00000	   2/69
+Huntington's disease	 0.08347	 1.00000	  3/149
+Nucleotide excision repair	 0.06462	 1.00000	   1/42
+Oxidative phosphorylation	 0.05448	 1.00000	   2/94
+RNA degradation	 0.04485	 1.00000	   1/53
+Cell cycle	 0.03697	 1.00000	  2/120
+Pyrimidine metabolism	 0.02652	 1.00000	   1/70
+Purine metabolism	 0.00574	 1.00000	  1/110
+Ubiquitin mediated proteolysis	 0.00299	 1.00000	  1/119
+Pathways in cancer	-0.00431	 1.00000	  2/304
+Metabolic pathways	-0.02437	 1.00000	  1/640
+p53 signaling pathway	-0.02883	 1.00000	   0/62
+Drug metabolism - other enzymes	-0.03062	 1.00000	   0/16
+Primary immunodeficiency	-0.03062	 1.00000	   0/33
+Cell adhesion molecules (CAMs)	-0.03062	 1.00000	  0/104
+Arrhythmogenic right ventricular cardiomyopathy (ARVC)	-0.03062	 1.00000	   0/62
+MAPK signaling pathway	-0.03062	 1.00000	  0/233
+ErbB signaling pathway	-0.03062	 1.00000	   0/84
+Chemokine signaling pathway	-0.03062	 1.00000	  0/170
+mTOR signaling pathway	-0.03062	 1.00000	   0/49
+Apoptosis	-0.03062	 1.00000	   0/81
+VEGF signaling pathway	-0.03062	 1.00000	   0/62
+Focal adhesion	-0.03062	 1.00000	  0/186
+Toll-like receptor signaling pathway	-0.03062	 1.00000	   0/90
+Jak-STAT signaling pathway	-0.03062	 1.00000	  0/134
+T cell receptor signaling pathway	-0.03062	 1.00000	  0/102
+B cell receptor signaling pathway	-0.03062	 1.00000	   0/69
+Fc epsilon RI signaling pathway	-0.03062	 1.00000	   0/65
+Fc gamma R-mediated phagocytosis	-0.03062	 1.00000	   0/82
+Neurotrophin signaling pathway	-0.03062	 1.00000	  0/121
+Insulin signaling pathway	-0.03062	 1.00000	  0/123
+Progesterone-mediated oocyte maturation	-0.03062	 1.00000	   0/79
+Adipocytokine signaling pathway	-0.03062	 1.00000	   0/57
+Colorectal cancer	-0.03062	 1.00000	   0/61
+Renal cell carcinoma	-0.03062	 1.00000	   0/68
+Pancreatic cancer	-0.03062	 1.00000	   0/70
+Endometrial cancer	-0.03062	 1.00000	   0/50
+Glioma	-0.03062	 1.00000	   0/60
+Prostate cancer	-0.03062	 1.00000	   0/84
+Melanoma	-0.03062	 1.00000	   0/62
+Acute myeloid leukemia	-0.03062	 1.00000	   0/52
+Small cell lung cancer	-0.03062	 1.00000	   0/82
+Non-small cell lung cancer	-0.03062	 1.00000	   0/51
+Peroxisome	-0.03062	 1.00000	   0/56
+Amino sugar and nucleotide sugar metabolism	-0.03062	 1.00000	   0/25
+RIG-I-like receptor signaling pathway	-0.03062	 1.00000	   0/55
+Cardiac muscle contraction	-0.03062	 1.00000	   0/52
+Alzheimer's disease	-0.03062	 1.00000	  0/138
+Parkinson's disease	-0.03062	 1.00000	   0/99
+Proteasome	-0.03062	 1.00000	   0/41
+Phagosome	-0.03062	 1.00000	  0/116
+Antigen processing and presentation	-0.03062	 1.00000	   0/50
+Intestinal immune network for IgA production	-0.03062	 1.00000	   0/36
+Type I diabetes mellitus	-0.03062	 1.00000	   0/29
+Leishmaniasis	-0.03062	 1.00000	   0/62
+Asthma	-0.03062	 1.00000	   0/19
+Autoimmune thyroid disease	-0.03062	 1.00000	   0/32
+Allograft rejection	-0.03062	 1.00000	   0/25
+Graft-versus-host disease	-0.03062	 1.00000	   0/25
+Viral myocarditis	-0.03062	 1.00000	   0/57
+Glycerophospholipid metabolism	-0.03062	 1.00000	   0/35
+Ether lipid metabolism	-0.03062	 1.00000	   0/16
+Arachidonic acid metabolism	-0.03062	 1.00000	   0/26
+Linoleic acid metabolism	-0.03062	 1.00000	   0/11
+Vascular smooth muscle contraction	-0.03062	 1.00000	   0/89
+GnRH signaling pathway	-0.03062	 1.00000	   0/83
+Endocytosis	-0.03062	 1.00000	  0/178
+Glycosylphosphatidylinositol(GPI)-anchor biosynthesis	-0.03062	 1.00000	   0/14
+Protein processing in endoplasmic reticulum	-0.03062	 1.00000	  0/139
+Leukocyte transendothelial migration	-0.03062	 1.00000	   0/98
+Lysosome	-0.03062	 1.00000	   0/75
+Aminoacyl-tRNA biosynthesis	-0.03062	 1.00000	   0/23
+ABC transporters	-0.03062	 1.00000	   0/20
+Bacterial invasion of epithelial cells	-0.03062	 1.00000	   0/64
+PPAR signaling pathway	-0.03062	 1.00000	   0/39
+Regulation of actin cytoskeleton	-0.03062	 1.00000	  0/187
+Pathogenic Escherichia coli infection	-0.03062	 1.00000	   0/47
+Shigellosis	-0.03062	 1.00000	   0/56
+Homologous recombination	-0.03062	 1.00000	   0/28
+Non-homologous end-joining	-0.03062	 1.00000	   0/13
+Nicotinate and nicotinamide metabolism	-0.03062	 1.00000	   0/11
+Axon guidance	-0.03062	 1.00000	  0/111
+Neuroactive ligand-receptor interaction	-0.03062	 1.00000	  0/214
+Adherens junction	-0.03062	 1.00000	   0/70
+Retinol metabolism	-0.03062	 1.00000	   0/12
+Bladder cancer	-0.03062	 1.00000	   0/38
+N-Glycan biosynthesis	-0.03062	 1.00000	   0/25
+Epithelial cell signaling in Helicobacter pylori infection	-0.03062	 1.00000	   0/59
+SNARE interactions in vesicular transport	-0.03062	 1.00000	   0/28
+Basal cell carcinoma	-0.03062	 1.00000	   0/44
+Cytosolic DNA-sensing pathway	-0.03062	 1.00000	   0/40
+Collecting duct acid secretion	-0.03062	 1.00000	   0/16
+Vibrio cholerae infection	-0.03062	 1.00000	   0/42
+ECM-receptor interaction	-0.03062	 1.00000	   0/77
+Amoebiasis	-0.03062	 1.00000	   0/98
+Glycolysis / Gluconeogenesis	-0.03062	 1.00000	   0/42
+Glycerolipid metabolism	-0.03062	 1.00000	   0/20
+Thyroid cancer	-0.03062	 1.00000	   0/25
+Cytokine-cytokine receptor interaction	-0.03062	 1.00000	  0/224
+Tryptophan metabolism	-0.03062	 1.00000	   0/26
+Cysteine and methionine metabolism	-0.03062	 1.00000	   0/27
+Hypertrophic cardiomyopathy (HCM)	-0.03062	 1.00000	   0/72
+Dilated cardiomyopathy	-0.03062	 1.00000	   0/77
+Gap junction	-0.03062	 1.00000	   0/80
+NOD-like receptor signaling pathway	-0.03062	 1.00000	   0/59
+Phosphatidylinositol signaling system	-0.03062	 1.00000	   0/62
+Long-term potentiation	-0.03062	 1.00000	   0/63
+Inositol phosphate metabolism	-0.03062	 1.00000	   0/47
+Fatty acid metabolism	-0.03062	 1.00000	   0/26
+Valine, leucine and isoleucine degradation	-0.03062	 1.00000	   0/27
+Natural killer cell mediated cytotoxicity	-0.03062	 1.00000	  0/108
+Amyotrophic lateral sclerosis (ALS)	-0.03062	 1.00000	   0/47
+Melanogenesis	-0.03062	 1.00000	   0/82
+Vasopressin-regulated water reabsorption	-0.03062	 1.00000	   0/37
+Regulation of autophagy	-0.03062	 1.00000	   0/21
+Sphingolipid metabolism	-0.03062	 1.00000	   0/22
+One carbon pool by folate	-0.03062	 1.00000	   0/10
+RNA polymerase	-0.03062	 1.00000	   0/26
+Calcium signaling pathway	-0.03062	 1.00000	  0/152
+Salivary secretion	-0.03062	 1.00000	   0/72
+Gastric acid secretion	-0.03062	 1.00000	   0/63
+Mismatch repair	-0.03062	 1.00000	   0/23
+Steroid hormone biosynthesis	-0.03062	 1.00000	   0/15
+Starch and sucrose metabolism	-0.03062	 1.00000	   0/21
+Porphyrin and chlorophyll metabolism	-0.03062	 1.00000	   0/17
+Metabolism of xenobiotics by cytochrome P450	-0.03062	 1.00000	   0/20
+Drug metabolism - cytochrome P450	-0.03062	 1.00000	   0/17
+Complement and coagulation cascades	-0.03062	 1.00000	   0/65
+Selenoamino acid metabolism	-0.03062	 1.00000	   0/17
+Glyoxylate and dicarboxylate metabolism	-0.03062	 1.00000	   0/10
+Olfactory transduction	-0.03062	 1.00000	   0/25
+Other glycan degradation	-0.03062	 1.00000	   0/10
+Pyruvate metabolism	-0.03062	 1.00000	   0/26
+Protein export	-0.03062	 1.00000	   0/17
+Prion diseases	-0.03062	 1.00000	   0/35
+Biosynthesis of unsaturated fatty acids	-0.03062	 1.00000	   0/11
+Proximal tubule bicarbonate reclamation	-0.03062	 1.00000	   0/18
+Glycine, serine and threonine metabolism	-0.03062	 1.00000	   0/18
+Taste transduction	-0.03062	 1.00000	   0/22
+Ribosome	-0.03062	 1.00000	   0/77
+O-Glycan biosynthesis	-0.03062	 1.00000	   0/12
+Nitrogen metabolism	-0.03062	 1.00000	   0/14
+Arginine and proline metabolism	-0.03062	 1.00000	   0/37
+Tyrosine metabolism	-0.03062	 1.00000	   0/17
+Butanoate metabolism	-0.03062	 1.00000	   0/14
+Glutathione metabolism	-0.03062	 1.00000	   0/26
+Renin-angiotensin system	-0.03062	 1.00000	   0/16
+Hedgehog signaling pathway	-0.03062	 1.00000	   0/44
+Alanine, aspartate and glutamate metabolism	-0.03062	 1.00000	   0/21
+Type II diabetes mellitus	-0.03062	 1.00000	   0/43
+Phototransduction	-0.03062	 1.00000	   0/22
+Malaria	-0.03062	 1.00000	   0/42
+Hematopoietic cell lineage	-0.03062	 1.00000	   0/80
+Circadian rhythm - mammal	-0.03062	 1.00000	   0/21
+Citrate cycle (TCA cycle)	-0.03062	 1.00000	   0/26
+Dorso-ventral axis formation	-0.03062	 1.00000	   0/20
+Propanoate metabolism	-0.03062	 1.00000	   0/19
+Maturity onset diabetes of the young	-0.03062	 1.00000	   0/19
+beta-Alanine metabolism	-0.03062	 1.00000	   0/15
+Fructose and mannose metabolism	-0.03062	 1.00000	   0/29
+Pentose phosphate pathway	-0.03062	 1.00000	   0/20
+Galactose metabolism	-0.03062	 1.00000	   0/17
+Aldosterone-regulated sodium reabsorption	-0.03062	 1.00000	   0/38
+Riboflavin metabolism	-0.03062	 1.00000	   0/11
